@@ -31,6 +31,19 @@ body {
     width: 25%;
     float: right;
     }
+
+    .redes-sociais-footer {
+        margin-top: -70;
+        width: 32%;
+        float: right;
+    }
+
+    .redes-sociais-footer ul li {
+        margin-left: 25px;
+        display: inline-block;
+        float: left;
+        list-style: none;
+        }
     .header-2 {
     background-color: #ffffff;
     width: 980px;
